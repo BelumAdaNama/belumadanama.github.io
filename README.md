@@ -4,3 +4,9 @@
 2. Fokus pada data selection dan extraction. coba dengan perhitungan entropi dan information gain.
 3. Cari format penilaian SDM sebagai acuan rotasi. dan buat data korelasi statistikanya sesuai dengan data yang sudah dikumpulkan
 
+📌 Link Repository GitHub:
+https://github.com/pangetsu/tugas_ai.git 
+
+Repository mencakup:
+●	Source code Python (Machine Learning)
+●	Source code Express.js (REST API)
